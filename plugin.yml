@@ -1,0 +1,74 @@
+name: FullPvPMain
+version: 1.0 RELEASE
+main: bEssentials.Main
+depend: [ProtocolLib]
+
+commands:
+  toggle:
+    aliases: []
+  combatlog:
+    aliases: []
+  bolao:
+    aliases: []
+  g:
+    aliases: []
+  cela:
+  spawnarMN:
+  quests:
+  setspawn:
+  chat:
+    aliases: []
+  subir:
+    aliases: [upar, rankup]
+  warp:
+    aliases: [warps]
+  money:
+    aliases: [reais, dinheiro]
+  pay:
+    aliases: []
+  givemoney:
+  setmoney:
+  removerwarp:
+    aliases: []
+  setwarp:
+    aliases: []
+  kit:
+    aliases: [kits]
+  broadcast:
+    aliases: [bc]
+  delhome:
+    aliases: [tirarhome]
+  fakemobs:
+    aliases: []
+  clear:
+    aliases: [clearinventory]
+  enderchest:
+    aliases: [echest]
+  fly:
+    aliases: []
+  tpall:
+    aliases: []
+  admin:
+    aliases: []
+  gamemode:
+    aliases: [gm]
+  invsee:
+    aliases: [inv]
+  home:
+    aliases: [home]
+  sethome:
+    aliases: []
+  tpa:
+    aliases: []
+  tpaccept:
+    aliases: []
+  tptoggle:
+    aliases: []
+  chest:
+    aliases: []
+  tp:
+    aliases: []
+  lag:
+    aliases: []
+  spawn:
+    aliases: []

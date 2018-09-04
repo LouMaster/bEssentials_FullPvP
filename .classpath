@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="bEssentials/main/java/net/citizensnpcs/api/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Progrmção/ServerMinigames/Team/construcao/plugins/bUtils.jar"/>
+	<classpathentry kind="lib" path="D:/Progrmção/ServerMinigames/Team/construcao/plugins/PermissionsEx.jar"/>
+	<classpathentry kind="lib" path="D:/Progrmção/ServerMinigames/Team/construcao/plugins/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="D:/Progrmção/ServerMinigames/Team/construcao/plugins/WorldEdit.jar"/>
+	<classpathentry kind="lib" path="D:/Progrmção/ServerMinigames/Team/construcao/plugins/WorldGuard.jar"/>
+	<classpathentry kind="lib" path="D:/Progrmção/ServerMinigames/Team/construcao/spigot_server.jar"/>
+	<classpathentry kind="lib" path="D:/Progrmção/ServerMinigames/Team/construcao/plugins/WorldGuard/AutoIn.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
